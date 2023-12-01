@@ -1,7 +1,15 @@
 Hi 👋 
 
 My name is Skoropadskyi Oleksandr
-I'm thrilled to share that I've recently embarked on my journey as a Full Stack Developer, ready to contribute my skills and passion to the world of technology. 💻 Tech Stack: HTML5 CSS3 SASS JavaScript React JS REST API GIT Parcel, Webpack 🔧 Specialties: Crafting responsive and dynamic web applications Proficient in version control with GIT Building seamless user interfaces with React JS Problem-solving enthusiast I'm driven by a relentless curiosity to explore new technologies and a commitment to delivering high-quality solutions. If you're looking for a dedicated developer with a knack for problem-solving, let's connect! 🚀* 🌍  I'm based in Augustenborg, Denmark* ✉️  You can contact me at [https://t.me/oleksrecycling](mailto:https://t.me/oleksrecycling)* 🧠  I'm learning I'm learning JavaScript, React, Node.js* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
+
+I'm thrilled to share that I've recently embarked on my journey as a Full Stack Developer, ready to contribute my skills and passion to the world of technology. 
+💻 Tech Stack: HTML5 CSS3 SASS JavaScript React JS REST API GIT Parcel, Webpack 
+🔧 Specialties: Crafting responsive and dynamic web applications Proficient in version control with GIT Building seamless user interfaces with React JS Problem-solving enthusiast I'm driven by a relentless curiosity to explore new technologies and a commitment to delivering high-quality solutions. If you're looking for a dedicated developer with a knack for problem-solving, let's connect! 🚀* 
+🌍  I'm based in Augustenborg, Denmark* 
+✉️  You can contact me at [https://t.me/oleksrecycling](mailto:https://t.me/oleksrecycling)* 
+🧠  I'm learning I'm learning JavaScript, React, Node.js* 
+🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
+
 
 ### Skills
 
